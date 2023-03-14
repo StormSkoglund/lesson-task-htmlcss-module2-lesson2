@@ -66,3 +66,13 @@ footer {
 .review__images {
   border-radius: 50%;
 }
+
+.Messagebox {
+   block-size: 50px;
+}
+
+.CTA {
+  background-color: #bb0000;
+  color: #e8e8e8;
+  border: none;
+}
